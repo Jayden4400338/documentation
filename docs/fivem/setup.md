@@ -6,7 +6,7 @@
 * A FiveM server running the latest [FXServer](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/).
 * RCON enabled for remote commands (you’ll need the password).
 * Internet access for the server to communicate with Vanta.
-* A database server like xampp or mariaDB which is what i recommend.
+* A database server like xampp or mariaDB which is what we recommend.
 
 ### Account Requirements
 * A Vanta account (sign up on the Vanta portal).
