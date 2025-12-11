@@ -1,1 +1,3 @@
-# Setting up your discord pannel
+# Setting up your discord panel
+
+test
